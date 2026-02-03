@@ -1,5 +1,4 @@
 # ACL4SSR
-Edit ACL4SSR For Quantumult-X
 
 # ACL4SSR for Quantumult-X  
 
