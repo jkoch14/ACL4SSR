@@ -1,0 +1,5 @@
+#  > Bydance
+
+
+host-suffix,snssdk.com,BackCN
+host-suffix,amemv.com,BackCN
