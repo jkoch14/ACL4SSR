@@ -1,5 +1,5 @@
 # 规则名称: ProxyMedia
-# 规则统计: 354
+# 规则统计: 353
 
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,ProxyMedia
 HOST,ai.google.dev,ProxyMedia
